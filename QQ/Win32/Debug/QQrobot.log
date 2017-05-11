@@ -1,0 +1,36 @@
+﻿  Generate moc_predefs.h
+  mainwindow.cpp
+mainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yuanm\documents\visual studio 2015\projects\qqrobot\qq\robotinterface.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yuanm\documents\visual studio 2015\projects\qqrobot\qq\webqqnet.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yuanm\documents\visual studio 2015\projects\qqrobot\qq\qqmsg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+mainwindow.cpp(375): error C2001: 常量中有换行符
+mainwindow.cpp(376): error C2059: 语法错误:“}”
+mainwindow.cpp(383): error C2001: 常量中有换行符
+mainwindow.cpp(384): error C2059: 语法错误:“}”
+  webqqnet.cpp
+webqqnet.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yuanm\documents\visual studio 2015\projects\qqrobot\qq\webqqnet.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yuanm\documents\visual studio 2015\projects\qqrobot\qq\qqmsg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+webqqnet.cpp(124): error C2001: 常量中有换行符
+webqqnet.cpp(125): error C2059: 语法错误:“}”
+webqqnet.cpp(165): error C2001: 常量中有换行符
+webqqnet.cpp(166): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+webqqnet.cpp(248): error C2001: 常量中有换行符
+webqqnet.cpp(249): error C2059: 语法错误:“}”
+webqqnet.cpp(258): error C2001: 常量中有换行符
+webqqnet.cpp(259): error C2059: 语法错误:“}”
+webqqnet.cpp(268): error C2001: 常量中有换行符
+webqqnet.cpp(269): error C2059: 语法错误:“this”
+webqqnet.cpp(309): error C2001: 常量中有换行符
+webqqnet.cpp(311): error C2059: 语法错误:“}”
+webqqnet.cpp(312): error C2001: 常量中有换行符
+webqqnet.cpp(313): error C2059: 语法错误:“}”
+webqqnet.cpp(386): error C2001: 常量中有换行符
+webqqnet.cpp(387): error C2059: 语法错误:“}”
+webqqnet.cpp(572): error C2001: 常量中有换行符
+webqqnet.cpp(572): error C2146: 语法错误: 缺少“;”(在标识符“msg”的前面)
+webqqnet.cpp(579): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+webqqnet.cpp(579): error C2001: 常量中有换行符
+webqqnet.cpp(580): error C2143: 语法错误: 缺少“;”(在“if”的前面)
+  正在生成代码...

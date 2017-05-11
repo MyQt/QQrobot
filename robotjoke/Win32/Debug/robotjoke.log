@@ -1,0 +1,16 @@
+﻿  Generate moc_predefs.h
+  robot.cpp
+robot.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\yuanm\Documents\Visual Studio 2015\Projects\QQrobot\QQ\robotinterface.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+robot.cpp(41): error C2001: 常量中有换行符
+robot.cpp(42): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+robot.cpp(55): error C2001: 常量中有换行符
+robot.cpp(56): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+robot.cpp(75): error C2001: 常量中有换行符
+robot.cpp(76): error C2059: 语法错误:“}”
+robot.cpp(89): error C2001: 常量中有换行符
+robot.cpp(90): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+robot.cpp(95): error C2001: 常量中有换行符
+robot.cpp(96): error C2146: 语法错误: 缺少“)”(在标识符“savejoke”的前面)
+robot.cpp(98): error C2001: 常量中有换行符
+robot.cpp(99): error C2059: 语法错误:“}”

@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QQrobot", "QQ\QQrobot.vcxproj", "{A577BC35-3F7A-3801-A61F-41BB50C3C3F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "robotjoke", "robotjoke\robotjoke.vcxproj", "{5509EFAC-FD7F-37D8-A6D2-3561A713F5BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "robotwiki", "robotwiki\robotwiki.vcxproj", "{79960022-8CB1-3936-A856-8CEC9377C3D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A577BC35-3F7A-3801-A61F-41BB50C3C3F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A577BC35-3F7A-3801-A61F-41BB50C3C3F1}.Debug|Win32.Build.0 = Debug|Win32
+		{A577BC35-3F7A-3801-A61F-41BB50C3C3F1}.Release|Win32.ActiveCfg = Release|Win32
+		{A577BC35-3F7A-3801-A61F-41BB50C3C3F1}.Release|Win32.Build.0 = Release|Win32
+		{5509EFAC-FD7F-37D8-A6D2-3561A713F5BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5509EFAC-FD7F-37D8-A6D2-3561A713F5BF}.Debug|Win32.Build.0 = Debug|Win32
+		{5509EFAC-FD7F-37D8-A6D2-3561A713F5BF}.Release|Win32.ActiveCfg = Release|Win32
+		{5509EFAC-FD7F-37D8-A6D2-3561A713F5BF}.Release|Win32.Build.0 = Release|Win32
+		{79960022-8CB1-3936-A856-8CEC9377C3D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79960022-8CB1-3936-A856-8CEC9377C3D7}.Debug|Win32.Build.0 = Debug|Win32
+		{79960022-8CB1-3936-A856-8CEC9377C3D7}.Release|Win32.ActiveCfg = Release|Win32
+		{79960022-8CB1-3936-A856-8CEC9377C3D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		Qt5Version = msvc2015
+	EndGlobalSection
+EndGlobal

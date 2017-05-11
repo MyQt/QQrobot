@@ -1,0 +1,22 @@
+﻿  Generate moc_predefs.h
+  robot.cpp
+robot.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\yuanm\Documents\Visual Studio 2015\Projects\QQrobot\QQ\robotinterface.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\yuanm\Documents\Visual Studio 2015\Projects\QQrobot\robotwiki\baiduweather.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+robot.cpp(22): error C2001: 常量中有换行符
+robot.cpp(23): error C2059: 语法错误:“}”
+robot.cpp(37): error C2014: 预处理器命令必须作为第一个非空白空间启动
+robot.cpp(38): error C2146: 语法错误: 缺少“)”(在标识符“replyMsg”的前面)
+robot.cpp(40): error C2001: 常量中有换行符
+robot.cpp(41): error C2059: 语法错误:“else”
+robot.cpp(41): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+robot.cpp(41): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+robot.cpp(44): error C2001: 常量中有换行符
+robot.cpp(49): error C2059: 语法错误:“else”
+robot.cpp(49): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+robot.cpp(49): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+robot.cpp(58): error C2059: 语法错误:“return”
+robot.cpp(59): error C2059: 语法错误:“}”
+robot.cpp(59): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+robot.cpp(60): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+robot.cpp(60): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
